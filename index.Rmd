@@ -1,11 +1,11 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "Rich's book of heresy"
+author: "Rich Gouette"
 site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
-  #bookdown::pdf_book: default
+  bookdown::pdf_book: default
 ---
 
 # Hello World
